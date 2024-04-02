@@ -1,0 +1,23 @@
+.ball {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.color-counts {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .color-counts div {
+    margin: 5px 0;
+  }
+  
